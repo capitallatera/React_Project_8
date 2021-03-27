@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_Project_8/static/css/main.122628aa.chunk.css",
+    "main.js": "/React_Project_8/static/js/main.f8842738.chunk.js",
+    "main.js.map": "/React_Project_8/static/js/main.f8842738.chunk.js.map",
+    "runtime-main.js": "/React_Project_8/static/js/runtime-main.8cc35aa9.js",
+    "runtime-main.js.map": "/React_Project_8/static/js/runtime-main.8cc35aa9.js.map",
+    "static/js/2.b7978b58.chunk.js": "/React_Project_8/static/js/2.b7978b58.chunk.js",
+    "static/js/2.b7978b58.chunk.js.map": "/React_Project_8/static/js/2.b7978b58.chunk.js.map",
+    "static/js/3.56c71d57.chunk.js": "/React_Project_8/static/js/3.56c71d57.chunk.js",
+    "static/js/3.56c71d57.chunk.js.map": "/React_Project_8/static/js/3.56c71d57.chunk.js.map",
+    "index.html": "/React_Project_8/index.html",
+    "static/css/main.122628aa.chunk.css.map": "/React_Project_8/static/css/main.122628aa.chunk.css.map",
+    "static/js/2.b7978b58.chunk.js.LICENSE.txt": "/React_Project_8/static/js/2.b7978b58.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React_Project_8/static/media/hero.acf1e00e.svg",
+    "static/media/logo.6ad422bb.svg": "/React_Project_8/static/media/logo.6ad422bb.svg",
+    "static/media/phone.94a7a4fe.svg": "/React_Project_8/static/media/phone.94a7a4fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cc35aa9.js",
+    "static/js/2.b7978b58.chunk.js",
+    "static/css/main.122628aa.chunk.css",
+    "static/js/main.f8842738.chunk.js"
+  ]
+}
